@@ -11,7 +11,7 @@ Hi, I'm Caroline! I am a PhD student in the Department of Psychology at Stanford
 
 I am a member of the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliams.sites.stanford.edu/) and the [Markman Lab](https://markmanlab.stanford.edu/). Before coming to Stanford, I worked as a lab manager for the [Kid Neuro Lab](https://www.cmu.edu/dietrich/psychology/kidneurolab/index.html) at Carnegie Mellon University. There, I studied numerical and mathematical development in children using fMRI. Before that, I completed my BA in neuroscience with a minor in linguistics from Colgate University, where I worked in the [Center for Language and Brain](https://www.colgate.edu/about/offices-centers-institutes/centers-institutes/center-language-and-brain) on the role of gestures in second-language learning.
 
-![image](../images/DC_230117A_Cantlon_Lab069.jpeg)
+![image](../images/kid_fmri.jpg)
 
 ------
 
